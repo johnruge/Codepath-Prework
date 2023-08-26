@@ -25,15 +25,15 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
--  Youtube
+Youtube
 - the way it keeps track of the videos I have watched as well as those I have not finished.
 - I may just use youtube even without signing in.
 
-- Instagram
+Instagram
 - it allows one to delete/unsend messages no matter how long ago it was sent.
 - Ability to use threads without a need to create a new account.
 
-- LinkedIn
+LinkedIn
 - Information about the people who viewed one's profile.
 - Being able to see people's posts that people in my network commented.
 
